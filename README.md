@@ -1,6 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Golang<br>👯 I’m looking to collaborate on any frontend projects<br>💬 Ask me about Frontend development, competitve programming
-
+I don't always write code, but when I do, I make sure it compiles.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ashu_dev_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-rath-54065a274/)
