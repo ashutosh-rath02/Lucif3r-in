@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ashutosh123rath](https://medium.com/@ashutosh123rath)
 
-- 💬 Ask me about **Reactjs, Nextjs, Typescript, GoLand**
+- 💬 Ask me about **Reactjs, Nextjs, Typescript, GoLang**
 
 - 📫 How to reach me **ashutosh123rath@gmail.com**
 
