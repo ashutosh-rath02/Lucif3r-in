@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucif3r-in&show_icons=true&locale=en" alt="lucif3r-in" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucif3r-in&" alt="lucif3r-in" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucif3r-in&" alt="lucif3r-in" /></p> -->
