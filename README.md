@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Rath</h1>
-<h3 align="center">A passionate frontend developer from India who is setting his foot into devops.</h3>
+<h3 align="center">It's hard to understand people so I prefer understanding codebases.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucif3r-in&label=Profile%20views&color=0e75b6&style=flat" alt="lucif3r-in" /> </p>
 
