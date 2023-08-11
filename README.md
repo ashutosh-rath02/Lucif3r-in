@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucif3r-in" alt="lucif3r-in" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ashutoshrath.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://ashutoshrath.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ashutosh123rath](https://medium.com/@ashutosh123rath)
 
