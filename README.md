@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ashutoshrath.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@ashutosh123rath](https://medium.com/@ashutosh123rath)
+- 📝 I sometimes write articles on [https://medium.com/@ashutosh123rath](https://medium.com/@ashutosh123rath)
 
 - 💬 Ask me about **Reactjs, Nextjs, Typescript, GoLang**
 
@@ -35,5 +35,3 @@
         <img src="https://stats.quine.sh/Lucif3r-in/dependencies?theme=dark" alt="Lucif3r-in's GitHub Dependencies">
     </a>
 </div>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucif3r-in&" alt="lucif3r-in" /></p> -->
