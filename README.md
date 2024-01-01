@@ -36,7 +36,7 @@
     </a>
 </div>
 <details>
-  <summary>Click to view @lucif3rin's Holopin badges</summary>
+  <summary>Click to view @ashutosh-rath02's Holopin badges</summary>
 
   [![An image of @lucif3rin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucif3rin)](https://holopin.io/@lucif3rin)
 </details>
