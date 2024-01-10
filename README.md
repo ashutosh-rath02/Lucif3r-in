@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucif3r-in&label=Profile%20views&color=0e75b6&style=flat" alt="lucif3r-in" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucif3r-in" alt="lucif3r-in" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-rath02" alt="ashutosh-rath02" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ashutoshrath.vercel.app/)
 
