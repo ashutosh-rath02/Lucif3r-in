@@ -29,10 +29,10 @@
 <p align="center" style="display: flex; justify-content: space-between;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucif3r-in&show_icons=true&locale=en" alt="lucif3r-in" /></p>
 <div align="center" style="display: flex; justify-content: space-between;">
     <a href="https://quine.sh?utm_source=widgets&utm_campaign=Lucif3r-in">
-        <img src="https://stats.quine.sh/Lucif3r-in/github?theme=dark" alt="Lucif3r-in's GitHub Stats">
+        <img src="https://stats.quine.sh/ashutosh-rath02/github?theme=dark" alt="Lucif3r-in's GitHub Stats">
     </a>
     <a href="https://quine.sh?utm_source=widgets&utm_campaign=Lucif3r-in">
-        <img src="https://stats.quine.sh/Lucif3r-in/dependencies?theme=dark" alt="Lucif3r-in's GitHub Dependencies">
+        <img src="https://stats.quine.sh/ashutosh-rath02/dependencies?theme=dark" alt="Lucif3r-in's GitHub Dependencies">
     </a>
 </div>
 <details>
